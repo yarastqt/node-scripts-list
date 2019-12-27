@@ -1,0 +1,7 @@
+{
+  "name": "fixture-package",
+  "scripts": {
+    "start": "echo 'start script'",
+    "build": "echo 'build script'"
+  }
+}
